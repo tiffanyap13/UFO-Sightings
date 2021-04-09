@@ -12,7 +12,7 @@ Once a user is on the webpage, they may filter the data using the filters on the
 ![State](/static/images/state.png)
 ## Summary
 ### Drawback
-This new design has a lot of great features; however, there is one drawback.  
+This new design has a lot of great features; however, there is one drawback. The user has to guess what keywords they will use to search the data in each field. 
 ### Additional Recommendations for Further Development
-One additional recommendation for further development is ### because###.  An additional recommendation would be to ####.
+One additional recommendation for further development is to integrate drop down options in each field to allow the user to see all of the available options on which to search.  An additional recommendation would be to remove the data from the table prior to searching to make the website more clean; therefore, when the user accesses the site and has their drop down options for searching, only their specified request terms will populate.
 
